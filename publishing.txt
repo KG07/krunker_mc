@@ -1,0 +1,6 @@
+Any maps based on this map may be published if and only if the map follow these rules.
+1. The map credits the creator with objects that can be easily seen while playing or with map description.
+2. The map follows one or more of these criteria:
+-The publisher got permission from the creator.
+-The map is significantly different from the original map in terms of gameplay such as the map is much bigger or smaller in size (block count), there are many more features such as there are many more types of blocks, items, or there is an inventory system.
+-The map wants to showcase the original map. There must be a noticeable limit of number of blocks placeable or number of blocks editable per second or minute which cannot be bypassed in the map through any kind of ways without using cheats, including achievements or purchases, in order to encourage people to play the original map.
